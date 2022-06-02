@@ -4,3 +4,6 @@ Benefits of using JsonPowerDB: JsonPowerDB is a Database Server with Developer f
 Release History: it is an jpdb named project released on 01-06-2022.
 Table of contents: Index.html file containing the code of user form.
 Sources: login2explore course which is Introduction to JSONPowerDB.
+
+There was some issues while connecting the net beans files so I had uploaded the file here which is index html.
+
